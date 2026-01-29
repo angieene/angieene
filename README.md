@@ -60,9 +60,8 @@ I focus on clean architecture, performance, and product-level thinking.
 
 ## 📫 Let’s Connect
 
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
-- Portfolio / Website: *(optional)*
+- LinkedIn: https://www.linkedin.com/in/anzhelanerukh
+- Email: angela.nerukh@gmail.com
 
 ---
 
