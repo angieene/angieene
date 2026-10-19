@@ -1,6 +1,6 @@
 # Hi 👋 I’m Anzhela
 
-Full-Stack Developer with 3+ years of experience building scalable web applications and AI-driven products.  
+AI-native Full-Stack Engineer with 3+ years of experience building web and mobile applications and AI-driven products.  
 I focus on clean architecture, performance, and product-level thinking.
 
 ---
@@ -8,7 +8,7 @@ I focus on clean architecture, performance, and product-level thinking.
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer (Node.js / Next.js / NestJS / React)
-- 🧠 Strong backend background with a frontend mindset
+- 🧠 Strong backend background
 - ⚙️ Experience building AI-powered features, media platforms, and complex upload flows
 - 🔁 Love refactoring, performance optimizations, and clean abstractions
 - 🎓 Bachelor’s degree in Computer Science
@@ -19,7 +19,7 @@ I focus on clean architecture, performance, and product-level thinking.
 ## 🛠 Tech Stack
 
 **Frontend**
-- Next.js (14+), React, TypeScript
+- Next.js, React, TypeScript
 - Tailwind CSS, Shadcn UI
 - Zustand, React Hook Form, Zod
 - SWR, modern UX patterns
